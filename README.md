@@ -30,9 +30,9 @@
 
 <!--  ![Untitled design (1)](https://user-images.githubusercontent.com/114678694/194710424-a81ee687-2cb9-43ad-9bfd-a95c3aefc552.png) -->
 
-<h3><li>Html</li></h3>
-<h3><li>Css</li></h3>
-<h3><li>Javascript</li></h3>
+<h3><li>HTML</li></h3>
+<h3><li>CSS</li></h3>
+<h3><li>JavaScript</li></h3>
 
 ## ✨ Features
 
